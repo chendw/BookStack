@@ -31,7 +31,7 @@ require (
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/unknwon/com v1.0.1
 	golang.org/x/crypto v0.0.0-20190605123033-f99c8df09eb5 // indirect
-	golang.org/x/sys v0.0.0-20191002091554-b397fe3ad8ed // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	golang.org/x/time v0.0.0-20191024005414-555d28b269f0 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
